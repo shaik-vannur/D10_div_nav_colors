@@ -1,0 +1,64 @@
+
+    .top2{
+background-color: rgb(132, 71, 189);
+border:5px dashed hwb(0 50% 6%);
+margin: 20px;
+    }
+    p{
+        text-align: justify;
+        color: rgb(23, 34, 27);
+    }
+    .last3{
+        background-color: hsl(0, 78%, 64%);
+        margin: 20px;
+        border: 5px solid #916e15;
+    }
+    nav{
+        text-decoration: none;
+        font-size: 20px ;
+        margin: 10px;
+        
+    }
+    .heading{
+        color: rgb(42, 12, 12);
+        background-color: #2e813fbc;
+        margin: 20px;
+        border: 3px solid rgb(143, 108, 65);
+        width: 550px;
+        display: block;
+        text-align: center;
+        
+    }
+    a{
+        border: 1px solid blue;
+        background-color: #bdae89;
+        text-decoration: none;
+    }
+    .usa{
+        background-color: rgb(132, 71, 189);
+border:5px dashed hwb(0 50% 6%);
+margin: 20px;
+    }
+    .russia{
+        background-color: rgb(132, 71, 189);
+border:5px dashed hwb(0 50% 6%);
+margin: 20px;
+    }
+    .china{
+        
+        background-color: hsl(0, 78%, 64%);
+        margin: 20px;
+        border: 5px solid #916e15;
+    }
+    .india{
+        
+        background-color: hsl(0, 78%, 64%);
+        margin: 20px;
+        border: 5px solid #916e15;
+    }
+    .south_korea{
+        
+        background-color: hsl(0, 78%, 64%);
+        margin: 20px;
+        border: 5px solid #916e15;
+    }
